@@ -1,6 +1,6 @@
 # chat_websocket_bloc
 
-A new Flutter project.
+Chat project built using Bloc and Websocket. It could be used as a skeleton for small chat projects
 
 ## Getting Started
 
